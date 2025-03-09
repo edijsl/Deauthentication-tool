@@ -17,7 +17,7 @@ WebServer.h
 esp_wifi.h (part of ESP32 core libraries).
 🔑 Access Point Credentials
 Parameter	Value
-SSID	65 64 69 6A 73 6C (Hex encoded, decodes to 'edijsL')
+SSID	65 64 69 6A 73 6C
 Password	12345678
 🌐 Web Interface
 Upon connecting to the ESP32 AP, navigate to the device's IP address (shown in Serial Monitor, typically 192.168.4.1).
